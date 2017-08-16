@@ -1,0 +1,60 @@
+# Welcome to Jekyll!
+#
+# This config file is meant for settings that affect your whole blog, values
+# which you are expected to set up once and rarely edit after that. If you find
+# yourself editing this file very often, consider using Jekyll's data files
+# feature for the data you need to update frequently.
+#
+# For technical reasons, this file is *NOT* reloaded automatically when you use
+# 'bundle exec jekyll serve'. If you change this file, please restart the server process.
+
+# Site settings
+# These are used to personalize your new site. If you look in the HTML files,
+# you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
+# You can create any custom variable you would like, and they will be accessible
+# in the templates via {{ site.myvariable }}.
+title: Ajinkya Jain
+email: ajinkya@utexas.edu
+description: > # this means to ignore newlines until "baseurl:"
+<<<<<<< HEAD
+  University of Texas at Austin
+baseurl: "/website" # the subpath of your site, e.g. /blog
+url: "localhost:4000" # the base hostname & protocol for your site, e.g. http://example.com
+=======
+  Welcome to my homepage!
+baseurl: "" # the subpath of your site, e.g. /blog
+url: "jainajinkya.github.io" # the base hostname & protocol for your site, e.g. http://example.com
+>>>>>>> f8e0d03b7fa36ba077d7630443df80ab3b0180c6
+#twitter_username: jekyllrb
+github_username:  jainajinkya
+
+# Build settings
+markdown: kramdown
+<<<<<<< HEAD
+theme: minima
+plugins:
+  - jekyll-feed
+
+# Exclude from processing.
+# The following items will not be processed, by default. Create a custom list
+# to override the default setting.
+exclude:
+   - Gemfile
+   - Gemfile.lock
+=======
+theme: jekyll-theme-cayman
+plugins:
+  #- jekyll-feed
+gem "github-pages", group: :jekyll_plugins
+# Exclude from processing.
+# The following items will not be processed, by default. Create a custom list
+# to override the default setting.
+# exclude:
+#   - Gemfile
+#   - Gemfile.lock
+>>>>>>> f8e0d03b7fa36ba077d7630443df80ab3b0180c6
+#   - node_modules
+#   - vendor/bundle/
+#   - vendor/cache/
+#   - vendor/gems/
+#   - vendor/ruby/
