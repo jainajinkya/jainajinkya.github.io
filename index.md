@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 ---
 # You don't need to edit this file, it's empty on purpose.
 # Edit theme's home layout instead if you wanna make some changes
@@ -130,4 +129,3 @@ Long, single-line code blocks should not wrap. They should horizontally scroll i
 ```
 The final element.
 ```
->>>>>>> f8e0d03b7fa36ba077d7630443df80ab3b0180c6

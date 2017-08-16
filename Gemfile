@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 source "https://rubygems.org"
 
 # Hello! This is where you manage which Jekyll version is used to run.
@@ -36,4 +35,3 @@ require 'open-uri'
 versions = JSON.parse(open('https://pages.github.com/versions.json').read)
 
 gem 'github-pages', versions['github-pages']
->>>>>>> f8e0d03b7fa36ba077d7630443df80ab3b0180c6
