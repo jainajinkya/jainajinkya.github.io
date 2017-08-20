@@ -16,7 +16,7 @@
 title: Ajinkya Jain
 email: ajinkya@utexas.edu
 description: University of Texas at Austin
-baseurl: "/website" # the subpath of your site, e.g. /blog
+baseurl: "/" # the subpath of your site, e.g. /blog
 url: "localhost:4000" # the base hostname & protocol for your site, e.g. http://example.com
 
 #twitter_username: jekyllrb
@@ -24,7 +24,8 @@ github_username:  jainajinkya
 
 # Build settings
 markdown: kramdown
-theme: minima
+#theme: minima
+theme: jekyll-theme-cayman
 plugins:
   - jekyll-feed
 
