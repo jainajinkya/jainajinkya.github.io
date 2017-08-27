@@ -21,12 +21,12 @@
 $main-font: "Palatino Linotype", "Book Antiqua", Palatino, serif;
 
 $heading-font: sans-serif;
-$heading-color: #404040;
+$heading-color: #994000  ; /*#404040;*/
 
 $text-color: #454545;
 $regular-font-size: 20px;
 
-$link-color: #841212;
+$link-color: #b34a00; /*#841212;*/
 
 /* To apply a different color scheme to the whole scroll down to the themes section for instructions */
 
@@ -260,7 +260,7 @@ th {
 }
 tbody tr:nth-child(odd) td,
 tbody tr:nth-child(odd) th {
-  background-color: #f9f9f9;
+  background-color: #CF5300; /*#f9f9f9;*/
 }
 
 
