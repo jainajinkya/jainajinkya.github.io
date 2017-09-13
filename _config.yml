@@ -4,7 +4,8 @@
 title:               Ajinkya Jain
 tagline:             'University of Texas at Austin'
 description:         'Ajinkya Jain'
-url:                 'https://jainajinkya.github.io'
+# url:                 'https://jainajinkya.github.io'
+url:                 'https://sites.utexas.edu/jainajinkya'
 baseurl:             ''
 
 # About/contact
@@ -14,7 +15,8 @@ baseurl:             ''
 #   email:             colibri.alex@gmail.com
 author:
   name:              Ajinkya Jain
-  url:               https://jainajinkya.github.io
+  # url:               https://jainajinkya.github.io
+  url:               https://sites.utexas.edu/jainajinkya
   email:             ajinkya@utexas.edu
 
 # Permalinks
