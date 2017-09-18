@@ -4,12 +4,12 @@ title: Research
 permalink: /research/
 ---
 <div class="toc">
-  <ol class="texts">  
+  <ul class="texts">  
     <li class="text-title">
-      <p> Robot manipulation planning under uncertainty using hybrid dynamics </p>
-      	<li> Partial assembly of Toy airplane from the YCB Dataset
-      	</li> 
+      <b> Robot manipulation planning under uncertainty using hybrid dynamics </b>
+      	<p> Partial assembly of Toy airplane from the YCB Dataset
+      	</p> 
      	 <iframe width="560" height="315" src="https://www.youtube.com/embed/IMLakQdTi6c" frameborder="0" allowfullscreen></iframe>
     </li>
-  </ol>
+  </ul>
 </div>
