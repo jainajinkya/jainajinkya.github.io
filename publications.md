@@ -9,7 +9,7 @@ permalink: /publications/
   <h2>Conference Articles</h2>
   <ul class="texts">
   <li class="text-title">
-      <p>A. Jain and S. Niekum, 'Robot manipulation planning under uncertainty using hybrid dynamics', <i>submitted in ICRA 2018 </i> <a href="/files/hblqr_icra_18.pdf" target="_blank"> [paper]</a> </p>
+      <p>A. Jain and S. Niekum, ' Leveraging Task Knowledge for Robot Motion Planning Under Uncertainty', <i>submitted in RSS 2018 </i> <a href="https://arxiv.org/abs/1802.04205" target="_blank"> [arXiv preprint]</a> </p>
     </li>
     <li class="text-title">
       <p> A. Jain, R. Datta and B. Bhattacharya, 'Unified Minimalistic Modelling of Piezoelectric Stack Actuators for Engineering Applications', Advances in Intelligent Systems and Computing, Springer 2014 <a href="http://link.springer.com/chapter/10.1007/978-3-319-16841-8_42" target="_blank"> [paper] </a> </p>
@@ -34,6 +34,16 @@ permalink: /publications/
   <ul class="texts">  
     <li class="text-title">
       <p>A. Jain and S. Niekum, 'Belief Space Planning under Approximate Hybrid Dynamics', Robotics: Science and Systems (R:SS) Workshop on POMDPs in Robotics, July 2017 </p> 
+    </li>
+  </ul>
+</div>
+
+<!-- Manuscripts -->
+<div class="toc">
+  <h2>Other Manuscripts</h2>
+  <ul class="texts">  
+    <li class="text-title">
+      <p>A. Jain and S. Niekum, 'Robot manipulation planning under uncertainty using hybrid dynamics', <i>submitted in ICRA 2018 </i> <a href="/files/hblqr_icra_18.pdf" target="_blank"> [paper]</a> </p>
     </li>
   </ul>
 </div>
