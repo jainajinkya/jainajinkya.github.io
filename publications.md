@@ -43,7 +43,8 @@ permalink: /publications/
   <h2>Other Manuscripts</h2>
   <ul class="texts">  
     <li class="text-title">
-      <p>A. Jain and S. Niekum, 'Robot manipulation planning under uncertainty using hybrid dynamics', <i>submitted in ICRA 2018 </i> <a href="/files/hblqr_icra_18.pdf" target="_blank"> [paper]</a> </p>
+<!--       <p>A. Jain and S. Niekum, 'Robot manipulation planning under uncertainty using hybrid dynamics', <i>submitted in ICRA 2018 </i> <a href="/files/hblqr_icra_18.pdf" target="_blank"> [paper]</a> </p> -->
+      <p>A. Jain and S. Niekum, 'Robot manipulation planning under uncertainty using hybrid dynamics', <a href="/files/hblqr.pdf" target="_blank"> [manuscript]</a> </p>
     </li>
   </ul>
 </div>
