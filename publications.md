@@ -9,7 +9,7 @@ permalink: /publications/
   <h2>Conference Articles</h2>
   <ul class="texts">
   <li class="text-title">
-      <p>A. Jain and S. Niekum, ' Leveraging Task Knowledge for Robot Motion Planning Under Uncertainty', <i>submitted in RSS 2018 </i> <a href="https://arxiv.org/abs/1802.04205" target="_blank"> [arXiv preprint]</a> </p>
+      <p>A. Jain and S. Niekum, 'Efficient Hierarchical Robot Motion Planning Under Uncertainty and Hybrid Dynamics', <i>submitted in RSS 2018 </i> <a href="https://arxiv.org/abs/1802.04205" target="_blank"> [arXiv preprint]</a> </p>
     </li>
     <li class="text-title">
       <p> A. Jain, R. Datta and B. Bhattacharya, 'Unified Minimalistic Modelling of Piezoelectric Stack Actuators for Engineering Applications', Advances in Intelligent Systems and Computing, Springer 2014 <a href="http://link.springer.com/chapter/10.1007/978-3-319-16841-8_42" target="_blank"> [paper] </a> </p>
