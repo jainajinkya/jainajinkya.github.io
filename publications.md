@@ -9,7 +9,7 @@ permalink: /publications/
   <h2>Conference Articles</h2>
   <ul class="texts">
   <li class="text-title">
-      <p>A. Jain and S. Niekum, 'Efficient Hierarchical Robot Motion Planning Under Uncertainty and Hybrid Dynamics', <i>Conference on Robot Learning (CoRL), 2018 </i> <a href="https://arxiv.org/abs/1802.04205" target="_blank"> [arXiv preprint]</a> </p>
+      <p>A. Jain and S. Niekum, 'Efficient Hierarchical Robot Motion Planning Under Uncertainty and Hybrid Dynamics', <i>Conference on Robot Learning (CoRL), 2018 </i> <a href="http://proceedings.mlr.press/v87/jain18a/jain18a.pdf" target="_blank"> [paper]</a> <a href="https://github.com/Pearl-UTexas/POMDP-HD" target="_blank"> [code]</a> </p>
     </li>
       <li class="text-title">
       <p>M. Ahmadi, A. Jain, S. Niekum and U. Topcu, 'Reachable Belief Space Estimation in POMDPs via Lyapunov Functions', <i>submitted in Hybrid Systems: Computation and Control (HSCC) 2019 </i> </p>
