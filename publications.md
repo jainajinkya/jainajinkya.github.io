@@ -11,12 +11,14 @@ permalink: /publications/
   <li class="text-title">
       <p>A. Jain and S. Niekum, 'Efficient Hierarchical Robot Motion Planning Under Uncertainty and Hybrid Dynamics', <i>Conference on Robot Learning (CoRL), 2018 </i> <a href="https://arxiv.org/abs/1802.04205" target="_blank"> [arXiv preprint]</a> </p>
     </li>
+      <li class="text-title">
+      <p>M. Ahmadi, A. Jain, S. Niekum and U. Topcu, 'Reachable Belief Space Estimation in POMDPs via Lyapunov Functions', <i>submitted in Hybrid Systems: Computation and Control (HSCC) 2019 </i> </p>
+    </li>
     <li class="text-title">
       <p> A. Jain, R. Datta and B. Bhattacharya, 'Unified Minimalistic Modelling of Piezoelectric Stack Actuators for Engineering Applications', Advances in Intelligent Systems and Computing, Springer 2014 <a href="http://link.springer.com/chapter/10.1007/978-3-319-16841-8_42" target="_blank"> [paper] </a> </p>
     </li>
   </ul>
 </div>
-
 
 <!-- Journal Articles -->
 <div class="toc">
