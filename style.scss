@@ -47,7 +47,7 @@ h2 {
   font-weight: normal;
   padding: 0px;
   margin: 0px;
-  display:inline; 
+  display:inline;
 }
 
 h3 {
@@ -57,7 +57,7 @@ h3 {
   font-display: auto;
   padding: 0px;
   margin: 0px;
-  display:inline; 
+  display:inline;
 }
 
 h1 {
@@ -97,6 +97,24 @@ h1 {
 
 span.highlight {
   background-color: #ffffd0;
+}
+
+blockquote {
+    margin: 0;
+}
+
+blockquote p {
+    padding: 15px;
+    background: #eee;
+    border-radius: 5px;
+}
+
+blockquote p::before {
+    content: '\201C';
+}
+
+blockquote p::after {
+    content: '\201D';
 }
 
 // Settled on moving the import of syntax highlighting to the bottom of the CSS
