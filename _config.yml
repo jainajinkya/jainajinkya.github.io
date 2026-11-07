@@ -6,7 +6,7 @@
 name: Ajinkya Jain
 
 # Short bio or description (displayed in the header)
-# description: the profile of an engineer, researcher and software developer
+description: "Senior Research Scientist at Google (Intrinsic) | Robot Learning, Embodied AI, and Control"
 
 # URL of your avatar or profile pic (you could use your GitHub profile pic)
 avatar: images/ajinkya_circ_crop.png
@@ -18,7 +18,7 @@ avatar: images/ajinkya_circ_crop.png
 # Includes an icon in the footer for each username you enter
 footer-links:
   dribbble:
-  email: ajinkya@utexas.edu
+  email: ajinkyajain@google.com
   facebook:
   flickr:
   github: jainajinkya

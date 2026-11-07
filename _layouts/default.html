@@ -7,7 +7,9 @@
   <meta content="text/html; charset=utf-8" http-equiv="Content-Type">
 
   <meta name="author" content="{{ site.name }}" />
+  <meta name="description" content="{{ site.description }}" />
   <meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta name="referrer" content="strict-origin-when-cross-origin">
 
   <link rel="stylesheet" type="text/css" href="{{ site.baseurl }}/style.css" />
   <!-- <link rel="canonical" href="{{ page.url | replace:'index.html','' | prepend: site.baseurl | prepend: site.url }}"> -->
@@ -30,38 +32,39 @@
               <h1>
                 Ajinkya Jain
               </h1>
-              <p>Hi there! I am a robotics researcher at <a href="https://intrinsic.ai/" target="_blank"> Intrinsic.ai
-                </a> (an Alphabet company), where I am a part of the R&D team led by <a
-                  href="https://scholar.google.com/citations?user=YGQs1AYAAAAJ&hl=en" target="_blank"> Prof. Stefan
-                  Schaal</a>. My research lies at the intersection of artificial intelligence (AI) and machine learning
-                (ML) with robot motion planning, dynamics, and control. I am particularly interested in developing
-                methods that enable robots to perform dexterous manipulation tasks with robustness in the face of
-                uncertainty. </p>
+              <p>Hi! I am a <strong>Senior Research Scientist</strong> at <a href="https://www.intrinsic.ai/"
+                  target="_blank" rel="noopener noreferrer">Google (Intrinsic)</a>, where I am part of the R&amp;D team
+                led by <a href="https://scholar.google.com/citations?user=YGQs1AYAAAAJ&amp;hl=en" target="_blank"
+                  rel="noopener noreferrer">Prof. Stefan Schaal</a>. My research lies at the intersection of
+                <strong>robot learning</strong>, <strong>embodied foundation models</strong>, and
+                <strong>physics-informed control</strong>, focusing on methods that enable robots to perform dexterous,
+                contact-rich, and multi-robot manipulation reliably in the real world. Recently, my work has centered on
+                on-policy distillation and reinforcement learning finetuning, policy synthesis with foundation models
+                (VLMs/LLMs), and force-aware imitation and online learning for tight-tolerance assembly.</p>
 
               <p>
-                Before joining Intrinsic, I obtained my Ph.D. in robotics from the University of Texas at Austin under
-                the guidance
-                of <a href="http://www.cs.utexas.edu/~sniekum/" target="_blank"> Prof. Scott Niekum </a> and <a
-                  href="https://reneu.robotics.utexas.edu/members/ashish-deshpande" target="_blank"> Prof. Ashish
-                  Deshpande </a>.
-                My doctoral research focused on two key areas: developing learning algorithms for
-                robots to acquire object interaction models from visual data and motion planners to perform robot
-                manipulation tasks robustly under uncertainty.
-                Prior to joining UT Austin, I obtained my Bachelors and
-                Masters in Mechanical Engineering from
-                <a href="http://iitk.ac.in/" target="_blank"> IIT Kanpur</a>.
+                Previously, I was a Robotics Engineer on the R&amp;D team at Vicarious (acquired by Alphabet in 2022 and
+                integrated into Intrinsic). I received my Ph.D. in Robotics from <a href="https://www.utexas.edu/"
+                  target="_blank" rel="noopener noreferrer">The University of Texas at Austin</a> under the guidance of
+                <a href="https://people.cs.umass.edu/~sniekum/" target="_blank" rel="noopener noreferrer">Prof. Scott
+                  Niekum</a> and <a href="https://reneu.robotics.utexas.edu/members/ashish-deshpande" target="_blank"
+                  rel="noopener noreferrer">Prof. Ashish Deshpande</a>, where my doctoral research focused on learning
+                object articulation and hybrid interaction models from visual data and motion planning under
+                uncertainty. Prior to UT Austin, I earned my Dual Degree (B.Tech.–M.Tech.) in Mechanical Engineering
+                (Robotics and Automation) from <a href="https://www.iitk.ac.in/" target="_blank"
+                  rel="noopener noreferrer">IIT Kanpur</a>.
               </p>
               <p style="text-align:center">
-                <a target="_blank" href="ajinkyajain@google.com"> Email</a> &nbsp;/&nbsp;
-                <a href="https://github.com/jainajinkya">GitHub</a> &nbsp;/&nbsp;
-                <a href="https://scholar.google.com/citations?user=CNUnD7kAAAAJ&hl=en">Google Scholar</a> &nbsp;/&nbsp;
-                <a href="https://www.linkedin.com/in/ajinkya-jain/"> LinkedIn </a> &nbsp;/&nbsp;
-                <a href="/pdfs/resume_ajinkya_jain.pdf">Resume</a></li> &nbsp;/&nbsp;
-                <a href="/pdfs/cv_ajinkya_jain.pdf">CV</a></li>
+                <a href="mailto:ajinkyajain@google.com">Email</a> &nbsp;/&nbsp;
+                <a href="https://github.com/jainajinkya" target="_blank" rel="noopener noreferrer">GitHub</a> &nbsp;/&nbsp;
+                <a href="https://scholar.google.com/citations?user=ldzDi5AAAAAJ&amp;hl=en" target="_blank" rel="noopener noreferrer">Google Scholar</a> &nbsp;/&nbsp;
+                <a href="https://www.linkedin.com/in/ajinkya-jain/" target="_blank" rel="noopener noreferrer">LinkedIn</a> &nbsp;/&nbsp;
+                <a href="/pdfs/resume_ajinkya_jain.pdf" target="_blank" rel="noopener noreferrer">Resume</a> &nbsp;/&nbsp;
+                <a href="/pdfs/cv_ajinkya_jain.pdf" target="_blank" rel="noopener noreferrer">CV</a>
               </p>
             </td>
             <td style="padding:2.5%;width:40%;max-width:40%">
-              <img style="width:100%;max-width:100%" alt="profile photo" src="images/ajinkya_circ_crop.png">
+              <img style="width:100%;max-width:100%;border-radius:50%;object-fit:cover;" alt="Ajinkya Jain profile photo" src="images/ajinkya-professional.jpg">
             </td>
           </tr>
         </table>
@@ -72,8 +75,15 @@
             <td style="padding:2.5%;width:100%;vertical-align:middle">
               <h2>Research</h2>
               <p>
-                I'm interested in robot learning, dexterous robot manipulation, motion planning under uncertainty, model
-                learning for planning and control, reinforcement learning, and optimal control.
+                My research develops scalable learning and control algorithms for generalist, contact-rich robotic
+                manipulation—spanning <strong>reinforcement learning finetuning and policy distillation</strong>,
+                <strong>foundation models (VLMs/LLMs) for policy synthesis</strong>, <strong>force-aware imitation and
+                  online learning</strong>, <strong>sim-to-real transfer</strong>, and <strong>motion planning under
+                  uncertainty</strong>. Alongside my publications and patented industrial manipulation technology (<a
+                  href="https://patents.google.com/patent/US12330304B2/en" target="_blank"
+                  rel="noopener noreferrer">US Patent 12,330,304 B2</a>), I co-organize community workshops at
+                <strong>RSS 2026</strong>, <strong>IROS 2026</strong>, and <strong>IEEE Humanoids 2026</strong> on
+                sim-to-real transfer and learning-based whole-body robot control.
               </p>
             </td>
           </tr>
@@ -86,7 +96,7 @@
           {% if cat == 'research' %}
           <tr>
             <td style="padding:2.5%;width:25%;vertical-align:middle;min-width:120px">
-              <img src="{{post.image}}" alt="project image" style="width:auto; height:auto; max-width:100%;" />
+              <img src="{{ post.image }}" alt="{{ post.title | escape }}" style="width:auto; height:auto; max-width:100%; border-radius:6px;" />
             </td>
             <td style="padding:2.5%;width:75%;vertical-align:middle">
               <h3>{{post.title}}</h3>
@@ -95,27 +105,20 @@
 
               <br>
               <em>{{post.venue}}</em>, {{ post.date | date: "%Y" }}
+              {% if post.award %}
+              <br><strong style="color:#b22222;">{{ post.award }}</strong>
+              {% endif %}
+              {% assign has_link = false %}
+              {% if post.paper or post.arxiv or post.video or post.webpage or post.code or post.patent or post.poster or post.slides %}
               <br>
-              {% if post.paper %}
-              <a href="{{post.paper}}">paper</a> /
-              {% endif %}
-              {% if post.arxiv %}
-              <a href="{{post.arxiv}}">arxiv</a> /
-              {% endif %}
-              {% if post.video %}
-              <a href="{{post.video}}">video</a> /
-              {% endif %}
-              {% if post.webpage %}
-              <a href="{{post.webpage}}">webpage</a> /
-              {% endif %}
-              {% if post.code %}
-              <a href="{{post.code}}">code</a> /
-              {% endif %}
-              {% if post.poster %}
-              <a href="{{post.poster}}">poster</a> /
-              {% endif %}
-              {% if post.slides %}
-              <a href="{{post.slides}}">slides</a> /
+              {% if post.paper %}{% if has_link %} / {% endif %}<a href="{{post.paper}}" target="_blank" rel="noopener noreferrer">paper</a>{% assign has_link = true %}{% endif %}
+              {% if post.arxiv %}{% if has_link %} / {% endif %}<a href="{{post.arxiv}}" target="_blank" rel="noopener noreferrer">arxiv</a>{% assign has_link = true %}{% endif %}
+              {% if post.video %}{% if has_link %} / {% endif %}<a href="{{post.video}}" target="_blank" rel="noopener noreferrer">video</a>{% assign has_link = true %}{% endif %}
+              {% if post.webpage %}{% if has_link %} / {% endif %}<a href="{{post.webpage}}" target="_blank" rel="noopener noreferrer">webpage</a>{% assign has_link = true %}{% endif %}
+              {% if post.code %}{% if has_link %} / {% endif %}<a href="{{post.code}}" target="_blank" rel="noopener noreferrer">code</a>{% assign has_link = true %}{% endif %}
+              {% if post.patent %}{% if has_link %} / {% endif %}<a href="{{post.patent}}" target="_blank" rel="noopener noreferrer">patent</a>{% assign has_link = true %}{% endif %}
+              {% if post.poster %}{% if has_link %} / {% endif %}<a href="{{post.poster}}" target="_blank" rel="noopener noreferrer">poster</a>{% assign has_link = true %}{% endif %}
+              {% if post.slides %}{% if has_link %} / {% endif %}<a href="{{post.slides}}" target="_blank" rel="noopener noreferrer">slides</a>{% assign has_link = true %}{% endif %}
               {% endif %}
               <p></p>
               {{ post.excerpt }}
